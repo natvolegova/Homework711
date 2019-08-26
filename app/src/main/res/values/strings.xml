@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework711</string>
+    <string name="btn_sync">Синхронизация</string>
+    <string name="txt_morning">Сервер Утро</string>
+    <string name="txt_day">Сервер День</string>
+    <string name="txt_night">Сервер Ночь</string>
+    <string name="btn_start">Запуск</string>
+</resources>
